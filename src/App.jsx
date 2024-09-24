@@ -42,7 +42,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center  flex-col sm:flex-row ">
           <img
             className="rounded-b-2xl h-20 w-32 mb-2 sm:h-24  "
-            src="/src/assets/bob.jpg"
+            src="/public/bob.jpg"
             alt="BOB"
             height={60}
             width={120}
