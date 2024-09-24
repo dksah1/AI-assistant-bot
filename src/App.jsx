@@ -39,15 +39,15 @@ function App() {
   return (
     <div className="min-h-screen bg-gradient-to-r from-blue-200 via-white to-purple-200 flex flex-col items-center justify-start">
       <header className="rounded-b-md w-full bg-gradient-to-r from-blue-600 to-purple-600 shadow-lg pb-4 sm:p-4 animate-slide-down">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center  flex-col sm:flex-row ">
-          <img
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-center flex-col sm:flex-row ">
+          {/* <img
             className="rounded-b-2xl h-20 w-32 mb-2 sm:h-24  "
             src="/public/bob.jpg"
             alt="BOB"
             height={60}
             width={120}
-          />
-          <h1 className="text-4xl font-extrabold text-gray-300 font-serif text-center sm:pl-96">
+          /> */}
+          <h1 className="text-4xl font-extrabold text-gray-300 font-serif text-center ">
             Bob AI Assistant
           </h1>
         </div>
